@@ -1,2 +1,2 @@
 # classification
-python classification service
+python classification service for capstone
